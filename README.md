@@ -1,4 +1,4 @@
-# AMOZONE-CLONE
+<pre># AMOZONE-CLONE
 Amazon Clone (HTML & CSS)
 
 This project is a simple Amazon Homepage Clone built using HTML and CSS only.
@@ -33,4 +33,4 @@ FEATURES
 
 HTML5
 CSS3
-Font Awesome Icons
+Font Awesome Icons </pre>
