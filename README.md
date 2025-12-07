@@ -22,7 +22,7 @@ FEATURES
   *Grid layout (2×2) for each box
   *Hover effects
   *Product images and sub-categories
-
+  
 -->Footer Sections
 
    *Multiple informational columns
